@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on José Luis Pabón Website</title>
+    <link>https://web.njit.edu/~jlp43/tags/</link>
+    <description>Recent content in Tags on José Luis Pabón Website</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>©2020 José Luis Pabón</copyright>
+    <lastBuildDate>Fri, 07 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://web.njit.edu/~jlp43/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Source Themes</title>
+      <link>https://web.njit.edu/~jlp43/tags/source-themes/</link>
+      <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.njit.edu/~jlp43/tags/source-themes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>academia</title>
+      <link>https://web.njit.edu/~jlp43/tags/academia/</link>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.njit.edu/~jlp43/tags/academia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>math</title>
+      <link>https://web.njit.edu/~jlp43/tags/math/</link>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.njit.edu/~jlp43/tags/math/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PhD</title>
+      <link>https://web.njit.edu/~jlp43/tags/phd/</link>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.njit.edu/~jlp43/tags/phd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preliminary Examinations</title>
+      <link>https://web.njit.edu/~jlp43/tags/preliminary-examinations/</link>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.njit.edu/~jlp43/tags/preliminary-examinations/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

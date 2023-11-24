@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on José Luis Pabón Website</title>
+    <link>https://web.njit.edu/~jlp43/publication/</link>
+    <description>Recent content in Publications on José Luis Pabón Website</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>©2020 José Luis Pabón</copyright>
+    <lastBuildDate>Fri, 07 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://web.njit.edu/~jlp43/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Preprint - a model for collective hydrodynamics project.</title>
+      <link>https://web.njit.edu/~jlp43/publication/preprint/</link>
+      <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.njit.edu/~jlp43/publication/preprint/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;hr&gt;
+&lt;p&gt;Here is the latest pdf and powerpoint related to this preprint of my research. Any suggestions for edits, typographical mistakes found, comments or suggestions please email me at the contact information found below. Best wishes!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;files/Summer_2020_Talk_Jose_Pabon.pdf&#34;&gt;Summer_2020_Talk_Jose_Pabon.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;files/Summer_2020_Talk_Jose_Pabon.pptx&#34;&gt;Summer_2020_Talk_Jose_Pabon.pptx&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
