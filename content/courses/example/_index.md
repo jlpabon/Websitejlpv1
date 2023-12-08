@@ -25,7 +25,7 @@ menu:
 
 ---
 
-I hope these slides and notes that I prepared for my Calculus-2 recitations are useful for you. Any feedback feel free to contact me.  Best wishes!
+I hope these slides and notes that I prepared for my Calculus-2 lectures, and other courses, are useful for you. Any feedback feel free to contact me.  Best wishes!
 
 
 - [MAT112RecitationWeek102020JosePabonFinal.pdf][1]
@@ -38,6 +38,8 @@ I hope these slides and notes that I prepared for my Calculus-2 recitations are 
 - [MAT112RecitationWeek72020JosePabonFinal.pdf][8]
 - [MAT112RecitationWeek82020JosePabonFinal.pdf][9]
 - [MAT112RecitationWeek92020JosePabonFinal.pdf][10]
+- [Fall2023Math222Lecture_JosePabon.pdf][11]
+
 
 
 
@@ -52,3 +54,4 @@ I hope these slides and notes that I prepared for my Calculus-2 recitations are 
 [8]:  files/MAT112RecitationWeek72020JosePabonFinal.pdf
 [9]:  files/MAT112RecitationWeek82020JosePabonFinal.pdf
 [10]:  files/MAT112RecitationWeek92020JosePabonFinal.pdf
+[11]:  files/Fall2023Math222Lecture_JosePabon.pdf
