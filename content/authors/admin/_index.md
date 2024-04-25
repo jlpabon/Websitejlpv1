@@ -14,7 +14,7 @@ btn:
 superuser: true
 
 # Role/position
-role: Math PhD student
+role: PhD candidate Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -61,7 +61,7 @@ social:
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 # - icon: github
 #   icon_pack: fab
-#   link: https://github.com/gcushen
+#   link: https://github.com/jlpabon
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
@@ -77,6 +77,9 @@ user_groups:
 - Researchers
 - Visitors
 ---
+
+**I am looking for post graduation employment, please feel free to reach out to me about vacancies.**
+
 
 I am a Ph.D. candidate at the [Mathematical Sciences Department](https://math.njit.edu/) at [New Jersey Institute of Technology](https://www.njit.edu/). My advisors are Prof. [Michael Siegel](https://web.njit.edu/~misieg/) and Prof. [Anand U. Oza](https://web.njit.edu/~oza/).  My research involves high precision modelling of the collective hydrodynamics of slender body active matter including the three dimensional vorticity and forces acting on each body inclusively. We seek to approximate the analytical solutions via efficient, high speed parallel computing numerical analysis methods.
 
