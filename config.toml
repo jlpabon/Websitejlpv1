@@ -8,7 +8,7 @@ theme = "academia-hugo"
 #relativeURLs = true
 
 # --- ADD THIS SECTION ---
-[params]
+#[params]
   # This tells the theme the directory where the site is hosted.
   # The value MUST start and end with a slash.
   #baseurl = "/Websitejlpv1/"
