@@ -26,16 +26,18 @@ jobs:
       - name: Build
         run: hugo --minify
 
-      - name: Configure Pages (ensure non-deprecated action)
+      # This section is crucial for setting up the deployment environment
+      - name: Configure Pages
         uses: actions/configure-pages@v4
 
-      - name: Upload pages artifact
+      - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v4
         with:
           path: ./public
 
-       - name: Deploy to GitHub Pages
-        id: deployment # Add an ID to the step for better logging
+      - name: Deploy to GitHub Pages
+        id: deployment
         uses: actions/deploy-pages@v1
+        # The environment name 'github-pages' is required to fix the 404 error
         with:
-          environment: github-pages # Explicitly specify the target environment
+          environment: github-pages
