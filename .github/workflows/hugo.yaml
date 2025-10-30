@@ -39,5 +39,3 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
         # The environment name 'github-pages' is required to fix the 404 error
-        with:
-          environment: github-pages
