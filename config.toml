@@ -1,4 +1,4 @@
-baseURL = "https://jlpabon.github.io/Websitejlpv1/"
+baseURL = "" # <--- Change to an empty string!
 languageCode = "en-us"
 title = "Jose Luis Pabon Website"
 
@@ -6,8 +6,7 @@ theme = "academia-hugo"
 # email = "test@example.com"
 email_form = 0
 
-## ADD THIS LINE:
-relativeURLs = true
+relativeURLs = true # This line must remain true!
 
 ## To get dark as the default add "dark" as a class to body.
 ## Still haven't found the configuration place for this.
