@@ -1,6 +1,6 @@
 ---
 # Display name
-name: José Luis Pabón
+name: José Luis Pabón, PhD
 avatar_image: "img/jlp-profile-cropped.png"
 # Username (this should match the folder name)
 authors:
@@ -18,7 +18,9 @@ role: PhD Research Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: The New Jersey Institute of Technology
+- name: The Institute for a Racially Just, Inclusive, and Open STEM Education (RIOS Institute),
+  url: "https://riosinstitute.org"
+- name: The New Jersey Institute of Technology,
   url: "https://www.njit.edu/"
 
 # Short bio (displayed in user profile at end of posts)
