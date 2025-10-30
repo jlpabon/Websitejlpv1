@@ -24,7 +24,7 @@ jobs:
           hugo-version: '0.111.3'
 
       - name: Build
-        run: hugo --minify
+        run: hugo --minify --environment production --buildDrafts --config config.toml --baseURL "https://jlpabon.github.io/Websitejlpv1/"
 
       # This section is crucial for setting up the deployment environment
       - name: Configure Pages
