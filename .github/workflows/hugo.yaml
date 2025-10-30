@@ -1,6 +1,4 @@
-# Example: Deploy Hugo site to GitHub Pages workflow (update upload-artifact to v4)
-# Adjust version pins and steps to match your existing workflow; the critical change is:
-# actions/upload-artifact@v3  -> actions/upload-artifact@v4
+# Deploy Hugo site to GitHub Pages
 name: Deploy Hugo site to Pages
 
 on:
@@ -23,10 +21,13 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '0.111.3' # set the Hugo version you need
+          hugo-version: '0.111.3'
 
       - name: Build
         run: hugo --minify
+
+      - name: Configure Pages (ensure non-deprecated action)
+        uses: actions/configure-pages@v4
 
       - name: Upload pages artifact
         uses: actions/upload-pages-artifact@v2
