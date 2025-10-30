@@ -18,11 +18,11 @@ hero_media = "jlp-profile-cropped.png"
 
   # Background color.
   color = "#fff"
-  
+
   # Background gradient.
   # gradient_start = "#4bb4e3"
   # gradient_end = "#000"
-  
+
   # Background image.
   # image = ""  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
@@ -36,11 +36,10 @@ hero_media = "jlp-profile-cropped.png"
 [btn]
   url = "/authors/admin"
   label = "Know more"
-  
+
 [btn_alt]
   url = "#contact"
   label = "Contact me"
 
 +++
-## My name is **Jose Luis Pabon** and I'm a **phD candidate** in the **Math** Department at **NJIT**. 
-
+## My name is **Jose Luis Pabon, PhD**,  I'm the **Vice President** of the **Princeton University Area Alumni Association** as well as a **Research Fellow** at the Racially-Just, Inclusive Open STEM Ed (RIOS) Institute.
