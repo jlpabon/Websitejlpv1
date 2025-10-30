@@ -14,7 +14,7 @@ btn:
 superuser: true
 
 # Role/position
-role: PhD candidate Researcher
+role: PhD Research Fellow
 
 # Organizations/Affiliations
 organizations:
@@ -36,7 +36,7 @@ education:
   courses:
   - course: Ph.D. Candidate in the Mathematical Sciences Department
     institution: New Jersey Institute of Technology
-    year: Current
+    year: 2025
   - course: A.B. Mathematics
     institution: Princeton University
     year: 2019
@@ -70,30 +70,30 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
-  
+
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget. Here is my [CV](files/JosePabonResume.pdf). 
+#   Set this to `[]` or comment out if you are not using People widget. Here is my [CV](files/JosePabonResume.pdf).
 user_groups:
 - Researchers
 - Visitors
 ---
 
-**I am looking for post graduation employment, please feel free to reach out to me about vacancies.**
+<!-- **I am looking for post graduation employment, please feel free to reach out to me about vacancies.** -->
 
 
-I am a Ph.D. candidate at the [Mathematical Sciences Department](https://math.njit.edu/) at [New Jersey Institute of Technology](https://www.njit.edu/). My advisors are Prof. [Michael Siegel](https://web.njit.edu/~misieg/) and Prof. [Anand U. Oza](https://web.njit.edu/~oza/).  My research involves high precision modelling of the collective hydrodynamics of slender body active matter including the three dimensional vorticity and forces acting on each body inclusively. We seek to approximate the analytical solutions via efficient, high speed parallel computing numerical analysis methods.
+I'm the **Vice President** of the **Princeton University Area Alumni Association** as well as a **Research Fellow** at the Racially-Just, Inclusive Open STEM Ed (RIOS) Institute.
+
+I was previously a Ph.D. candidate at the [Mathematical Sciences Department](https://math.njit.edu/) at [New Jersey Institute of Technology](https://www.njit.edu/). My advisors were Prof. [Michael Siegel](https://web.njit.edu/~misieg/) and Prof. [Anand U. Oza](https://web.njit.edu/~oza/).  My research involves high precision modelling of the collective hydrodynamics of slender body active matter including the three dimensional vorticity and forces acting on each body inclusively. We seek to approximate the analytical solutions via efficient, high speed parallel computing numerical analysis methods.
 
 
-Previously, I was an Artium Baccalaureus (A.B.) student with concentration in the [Mathematics Department](http://math.princeton.edu/) at [Princeton University](https://www.princeton.edu/). I also enrolled in certificate programs, i.e. minor concentrations, in the Center for Information Technology Policy’s Technology and Society Track and also in the Program in Latin American Studies History and Society Track. My advisors were Prof. [Miklos Racz](http://mracz.princeton.edu/) and Prof. [Fernando Codá Marques](https://www.math.princeton.edu/people/fernando-coda-marques). My graduation was in the summer of 2019. For high school, I attended the [Academia del Perpetuo Socorro](http://www.aps-pr.org/) in my native homeland island of Puerto Rico. 
+Previously, I was an Artium Baccalaureus (A.B.) student with concentration in the [Mathematics Department](http://math.princeton.edu/) at [Princeton University](https://www.princeton.edu/). I also enrolled in certificate programs, i.e. minor concentrations, in the Center for Information Technology Policy’s Technology and Society Track and also in the Program in Latin American Studies History and Society Track. My advisors were Prof. [Miklos Racz](http://mracz.princeton.edu/) and Prof. [Fernando Codá Marques](https://www.math.princeton.edu/people/fernando-coda-marques). My graduation was in the summer of 2019. I attended high school at [Academia del Perpetuo Socorro](http://www.aps-pr.org/) in my native homeland island of Puerto Rico.
 
-My past research experience includes applications of game theory for problem scenarios such as extensive games in the global cryptocurrency market. Also related are game theoretic models still undergoing research including topics in artificial intelligence and ancilliary computing subjects. 
+My past research experience includes applications of game theory for problem scenarios such as extensive games in the global cryptocurrency market. Also related are game theoretic models still undergoing research including topics in artificial intelligence and ancilliary computing subjects.
 
-I have received numerous accolades for my distinguished service during my extended tour of duty in the network operations and information technology sectors of the enterprise grade telecommunications industry field. These recognitions include [Cisco BroadWorks](https://www.cisco.com/c/en/us/products/unified-communications/broadworks/index.html) Certified Operational Engineer for Voice over I.P. and Cloud-based unified communications platforms, Computing Technology Industry Association [CompTIA](https://www.comptia.org/home) Network Plus Administration as well as [AT&T Six Sigma](https://www.6sigma.us/customer/att/) Black Belt Program. 
+I have received numerous accolades for my distinguished service during my extended tour of duty in the network operations and information technology sectors of the enterprise grade telecommunications industry field. These recognitions include [Cisco BroadWorks](https://www.cisco.com/c/en/us/products/unified-communications/broadworks/index.html) Certified Operational Engineer for Voice over I.P. and Cloud-based unified communications platforms, Computing Technology Industry Association [CompTIA](https://www.comptia.org/home) Network Plus Administration as well as [AT&T Six Sigma](https://www.6sigma.us/customer/att/) Black Belt Program.
 
-Outside of research, I am a proud father of two wonderful children and thus I have no time for anything else. Please send help. I am also an active participant in [The Princeton Aquinas Institute](http://princetoncatholic.org/), the catholic community at Princeton, as well as the Newman Centers for U. Penn and [Newark Newman Center](http://www.newmanclubnwk.com/). 
-
-
-
-Are you looking for information on expositions I've composed regarding past Ph.D. exams? then click [here](post/math). 
+Outside of research, I am a proud father of two wonderful children and thus I have no time for anything else. Please send help. I am also an active participant in [The Princeton Aquinas Institute](http://princetoncatholic.org/), the catholic community at Princeton, as well as the Newman Centers for U. Penn and [Newark Newman Center](http://www.newmanclubnwk.com/).
 
 
+
+Are you looking for information on expositions I've composed regarding past Ph.D. exams? then click [here](post/math).
