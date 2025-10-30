@@ -5,11 +5,11 @@ title = "Jose Luis Pabon Website"
 theme = "academia-hugo"
 # ... (other config lines)
 
-relativeURLs = true
+#relativeURLs = true
 
 # --- ADD THIS SECTION ---
 [params]
   # This tells the theme the directory where the site is hosted.
   # The value MUST start and end with a slash.
-  baseurl = "/Websitejlpv1/"
+  #baseurl = "/Websitejlpv1/"
 # ------------------------
