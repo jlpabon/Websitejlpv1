@@ -3,13 +3,13 @@ languageCode = "en-us"
 title = "Jose Luis Pabon Website"
 
 theme = "academia-hugo"
-# ... (other config lines)
+# email = "test@example.com"
+email_form = 0
 
-#relativeURLs = true
+# 1. Use relative URLs for all assets (CSS, JS, etc.)
+relativeURLs = true
 
-# --- ADD THIS SECTION ---
-#[params]
-  # This tells the theme the directory where the site is hosted.
-  # The value MUST start and end with a slash.
-  #baseurl = "/Websitejlpv1/"
-# ------------------------
+# 2. Tell the theme where the content is rooted for assets
+[params]
+  # This baseurl starts and ends with a slash and includes the repo name.
+  baseurl = "/Websitejlpv1/"
