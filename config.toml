@@ -1,12 +1,15 @@
-baseURL = "" # <--- Change to an empty string!
+baseURL = ""
 languageCode = "en-us"
 title = "Jose Luis Pabon Website"
 
 theme = "academia-hugo"
-# email = "test@example.com"
-email_form = 0
+# ... (other config lines)
 
-relativeURLs = true # This line must remain true!
+relativeURLs = true
 
-## To get dark as the default add "dark" as a class to body.
-## Still haven't found the configuration place for this.
+# --- ADD THIS SECTION ---
+[params]
+  # This tells the theme the directory where the site is hosted.
+  # The value MUST start and end with a slash.
+  baseurl = "/Websitejlpv1/"
+# ------------------------
