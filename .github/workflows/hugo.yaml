@@ -34,5 +34,8 @@ jobs:
         with:
           path: ./public
 
-      - name: Deploy to GitHub Pages
+       - name: Deploy to GitHub Pages
+        id: deployment # Add an ID to the step for better logging
         uses: actions/deploy-pages@v1
+        with:
+          environment: github-pages # Explicitly specify the target environment
