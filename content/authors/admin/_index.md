@@ -20,8 +20,10 @@ role: PhD Research Fellow
 organizations:
 - name: The Institute for a Racially Just, Inclusive, and Open STEM Education (RIOS Institute),
   url: "https://riosinstitute.org"
+- name: Princeton University,
+  url: "https://www.princeton.edu/"
 - name: The New Jersey Institute of Technology,
-  url: "https://www.njit.edu/"
+    url: "https://www.njit.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Math Puerto Rican Boricua
@@ -44,7 +46,7 @@ education:
     year: 2019
   - course: HS Degree
     institution: Academia Perpetuo Socorro
-    year: 1993
+    year:
 
 
 # Social/academia Networking
