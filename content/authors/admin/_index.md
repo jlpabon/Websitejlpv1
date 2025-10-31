@@ -21,12 +21,10 @@ organizations:
 - name: The Institute for a Racially Just, Inclusive, and Open STEM Education (RIOS Institute),
   url: "https://riosinstitute.org"
 - name: Princeton University,
-  url: "https://www.princeton.edu/"
-- name: The New Jersey Institute of Technology,
-    url: "https://www.njit.edu/"
+  url: "https://www.princeton.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Math Puerto Rican Boricua
+bio: Math, Puerto Rican, Boricua
 
 # Should the user's education and interests be displayed?
 display_education: true
