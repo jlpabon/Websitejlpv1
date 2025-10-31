@@ -14,14 +14,16 @@ btn:
 superuser: true
 
 # Role/position
-role: PhD Research Fellow
+role: Research Fellow
 
 # Organizations/Affiliations
 organizations:
+  - name: Princeton University,
+    url: "https://www.princeton.edu"
+  - name: New Jersey Institute of Technology
+    url: "https://www.njit.edu"
   - name: The Institute for a Racially Just, Inclusive, and Open STEM Education (RIOS Institute),
     url: "https://riosinstitute.org"
-  - name: Princeton University,
-    url: "https://www.princeton.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Math, Puerto Rican, Boricua
