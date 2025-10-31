@@ -44,7 +44,7 @@ education:
     year: 2019
   - course: HS Degree
     institution: Academia Perpetuo Socorro
-    year:
+    year: 2015
 
 
 # Social/academia Networking
