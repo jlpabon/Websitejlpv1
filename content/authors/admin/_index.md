@@ -18,10 +18,10 @@ role: PhD Research Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: The Institute for a Racially Just, Inclusive, and Open STEM Education (RIOS Institute),
-  url: "https://riosinstitute.org"
-- name: Princeton University,
-  url: "https://www.princeton.edu/
+  - name: The Institute for a Racially Just, Inclusive, and Open STEM Education (RIOS Institute),
+    url: "https://riosinstitute.org"
+  - name: Princeton University,
+    url: "https://www.princeton.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Math, Puerto Rican, Boricua
