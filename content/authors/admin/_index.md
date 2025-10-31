@@ -42,9 +42,6 @@ education:
   - course: A.B. Mathematics
     institution: Princeton University
     year: 2019
-##  - course: HS Degree
-##  institution: Academia Perpetuo Socorro
-##    year: 2015
 
 
 # Social/academia Networking
