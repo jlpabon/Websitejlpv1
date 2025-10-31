@@ -5,20 +5,20 @@
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
 # Title of your site
-title = "José Luis Pabón Website"
+title = "José Luis Pabón, PhD, Website"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-# baseURL = "/" 
-baseURL = "https://web.njit.edu/~jlp43/"
+# baseURL = "/"
+baseURL = "https://jlpabon.github.io/Websitejlpv1/"
 
-## For Creating a localwebsite only. 
+## For Creating a localwebsite only.
 # relativeURLs = false
 # uglyURLs = false
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = "©2020 José Luis Pabón"
+copyright = "©2025 José Luis Pabón"
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = ""
