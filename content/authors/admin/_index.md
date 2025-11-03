@@ -1,7 +1,8 @@
 ---
 # Display name
 name: José Luis Pabón, PhD
-avatar_image: "img/jlp-profile-cropped.png"
+## Line below implements the avatar image, commented out nov 3 2025
+#avatar_image: "img/jlp-profile-cropped.png"
 # Username (this should match the folder name)
 authors:
 - admin
