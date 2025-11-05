@@ -1,42 +1,77 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>José Luis Pabón Website</title>
-    <link>https://web.njit.edu/~jlp43/</link>
-    <description>Recent content on José Luis Pabón Website</description>
+    <title>José Luis Pabón, PhD, Website</title>
+    <link>https://jlpabon.github.io/Websitejlpv1/</link>
+    <description>Recent content on José Luis Pabón, PhD, Website</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>©2020 José Luis Pabón</copyright>
+    <copyright>©2025 José Luis Pabón</copyright>
     <lastBuildDate>Fri, 07 Aug 2020 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://web.njit.edu/~jlp43/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://jlpabon.github.io/Websitejlpv1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Publications</title>
-      <link>https://web.njit.edu/~jlp43/publication/</link>
+      <link>https://jlpabon.github.io/Websitejlpv1/publication/</link>
       <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://web.njit.edu/~jlp43/publication/</guid>
+      <guid>https://jlpabon.github.io/Websitejlpv1/publication/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Posts</title>
-      <link>https://web.njit.edu/~jlp43/post/</link>
+      <link>https://jlpabon.github.io/Websitejlpv1/post/</link>
       <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://web.njit.edu/~jlp43/post/</guid>
+      <guid>https://jlpabon.github.io/Websitejlpv1/post/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Courses</title>
-      <link>https://web.njit.edu/~jlp43/courses/</link>
+      <link>https://jlpabon.github.io/Websitejlpv1/courses/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://web.njit.edu/~jlp43/courses/</guid>
+      <guid>https://jlpabon.github.io/Websitejlpv1/courses/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Princeton Alumni Mental Health Council</title>
+      <link>https://jlpabon.github.io/Websitejlpv1/alumni-mental-health/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jlpabon.github.io/Websitejlpv1/alumni-mental-health/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Princeton Alumni Mental Health Coalition (AMHC)&lt;/p&gt;
+&lt;p&gt;– &lt;strong&gt;Mission Statement&lt;/strong&gt; -&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Our Mission&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;In response to the growing mental health crisis at Princeton and the profound losses felt by our community, the Alumni Mental Health Coalition (AMHC) formed to bring together alumni, students, faculty, and administrators in a shared effort to transform the culture of mental health on campus. We seek to reduce stigma, expand access to care, and advocate for compassionate, equitable policies—while amplifying the lived experiences and voices of current students. Grounded in empathy, data, and community partnership, we aim to build a Princeton where every student feels supported, seen, and able to thrive.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Core Commitments&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Advocacy &amp;amp; Policy Change&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Push for systemic improvements that centers student needs, such as eliminating financial barriers, ensuring transparency around leave of absence, and increasing institutional accountability.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Storytelling &amp;amp; Testimony&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Create platforms for alumni and students to share authentic stories that reduce stigma, build empathy, and inspire community and collective action.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Mentorship &amp;amp; Support&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Partner with and learn from student-led peer support networks, offering alumni mentorship and guidance to uplift students navigating through Princeton.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Research &amp;amp; Data&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ground our efforts in evidence by gathering data, conducting surveys, and amplifying reports on student mental health experiences.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Events &amp;amp; Programming&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Host panels, workshops, and speaker series that provide positive wellbeing driven education, resources, and community-building opportunities&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Organizational Development&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Build a sustainable structure with funding, clear leadership, and collaborative subcommittees to drive meaningful engagement of alumni in evolving picture of campus mental health&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Our Vision&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We envision a Princeton where mental health is prioritized as integral to academic and personal success, where policies reflect compassion and equity, and where no student feels isolated in their struggles. Through alumni engagement, collective advocacy, and collaboration with the University, we strive to create lasting cultural and structural change.&lt;/p&gt;
+&lt;p&gt;** Who we are **&lt;/p&gt;
+&lt;p&gt;Here we can list people who we want to list.&lt;/p&gt;
+&lt;p&gt;Jose Pabon, PhD:
+&lt;img src=&#34;JosePabonHeadshotCroppedPixlr.png&#34; alt=&#34;Headshot of Jose Pabon&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Jose Pabon is one of our members; when we have other folks listed here we can list their roles, short bios or whatever we want.&lt;/p&gt;
+&lt;hr&gt;
+</description>
     </item>
     
   </channel>

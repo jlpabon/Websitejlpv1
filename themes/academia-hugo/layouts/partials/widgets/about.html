@@ -16,19 +16,19 @@
 {{ $person := $person_page.Params }}
 
 <!-- About widget -->
+{{/* Prefer widget-level avatar_image; fall back to author param if missing */}}
+{{ $avatar_image := or .page.Params.avatar_image $person.avatar_image }}
+{{ $has_avatar := or site.Params.gravatar $avatar_image }}
 <div class="row" itemprop="author" itemscope itemtype="http://schema.org/Person"
   itemref="{{ if site.Params.email }}person-email{{ end }}{{ if site.Params.phone }} person-telephone{{ end }}{{ if site.Params.address}} person-address{{ end }}">
+  {{ if $has_avatar }}
   <div class="col-lg-5">
     <div id="profile">
       {{ if site.Params.gravatar }}
       <img class="portrait img-fluid" src="https://s.gravatar.com/avatar/{{ md5 $person.email }}?s=200')"
         itemprop="image" alt="Avatar">
-      {{ else }}
-      {{/* Prefer widget-level avatar_image; fall back to author param if missing */}}
-      {{ $avatar_image := or .page.Params.avatar_image $person.avatar_image }}
-      {{ if $avatar_image }}
+      {{ else if $avatar_image }}
       <img class="img-fluid" src="{{ printf "img/%s" $avatar_image | relURL }}" itemprop="image" alt="Avatar">
-      {{ end }}
       {{ end }}
     </div>
     <ul class="network-icon bg-white mx-2 py-2 text-center" aria-hidden="true">
@@ -54,7 +54,8 @@
       {{ end }}
     </ul>
   </div>
-  <div class="col-lg-7" itemprop="description">
+  {{ end }}
+  <div class="{{ if $has_avatar }}col-lg-7{{ else }}col-lg-12{{ end }}" itemprop="description">
 
     <div class="portrait-title">
       <h2 itemprop="name">{{ $person.name }}</h2>
