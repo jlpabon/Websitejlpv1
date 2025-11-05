@@ -3,16 +3,10 @@
   display: block !important;
   visibility: visible !important;
   opacity: 1 !important;
-  max-width: 100%;
-  height: auto;
-}
-
-#profile .portrait {
-  width: 200px;
-  height: 200px;
-  object-fit: cover;
-  border-radius: 50%;
-  margin: 0 auto;
-  display: block;
+  width: 200px !important;
+  height: 200px !important;
+  object-fit: cover !important;
+  border-radius: 50% !important;
+  margin: 0 auto !important;
 }
 
