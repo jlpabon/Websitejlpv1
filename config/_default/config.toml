@@ -13,7 +13,7 @@ title = "José Luis Pabón, PhD, Website"
 baseURL = "https://jlpabon.github.io/Websitejlpv1/"
 
 ## For Creating a localwebsite only.
-# relativeURLs = false
+relativeURLs = true
 # uglyURLs = false
 
 # Enter a copyright notice to display in the site footer.
