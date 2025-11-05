@@ -140,11 +140,11 @@
   <link rel="feed" href="{{ .RelPermalink }}" type="application/rss+xml" title="{{ site.Title }}">
   {{ end }}
 
-  <!-- <link rel="manifest" href="{{ "site.webmanifest" | relURL }}"> -->
+  <link rel="manifest" href="{{ "site.webmanifest" | relURL }}">
   <link rel="icon" type="image/png" href="{{ "/img/icon.png" | relURL }}">
-  <link rel="apple-touch-icon" sizes="180x180" href="{{ printf "%simg/apple-touch-icon.png" site.BaseURL | absURL }}">
-  <link rel="apple-touch-icon" sizes="152x152" href="{{ printf "%simg/apple-touch-icon-152.png" site.BaseURL | absURL }}">
-  <link rel="apple-touch-icon" href="{{ printf "%simg/apple-touch-icon.png" site.BaseURL | absURL }}">
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ printf "%sapple-touch-icon.png" site.BaseURL }}">
+  <link rel="apple-touch-icon" sizes="152x152" href="{{ printf "%sapple-touch-icon-152.png" site.BaseURL }}">
+  <link rel="apple-touch-icon" href="{{ printf "%sapple-touch-icon.png" site.BaseURL }}">
 
   <link rel="canonical" href="{{ .Permalink }}">
 
