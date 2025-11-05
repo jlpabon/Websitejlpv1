@@ -24,8 +24,11 @@
       <img class="portrait img-fluid" src="https://s.gravatar.com/avatar/{{ md5 $person.email }}?s=200')"
         itemprop="image" alt="Avatar">
       {{ else }}
-      {{ $avatar_image := .page.Params.avatar_image }}
+      {{/* Prefer widget-level avatar_image; fall back to author param if missing */}}
+      {{ $avatar_image := or .page.Params.avatar_image $person.avatar_image }}
+      {{ if $avatar_image }}
       <img class="img-fluid" src="{{ printf "img/%s" $avatar_image | relURL }}" itemprop="image" alt="Avatar">
+      {{ end }}
       {{ end }}
     </div>
     <ul class="network-icon bg-white mx-2 py-2 text-center" aria-hidden="true">
