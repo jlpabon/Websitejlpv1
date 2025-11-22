@@ -44,3 +44,8 @@
    name = "CV"
    url = "files/JosePabonResume.pdf"
    weight = 70
+
+[[main]]
+   name = "Medical Emergency Fundraiser"
+   url = "/medical-emergency-fundraiser/"
+   weight = 700
