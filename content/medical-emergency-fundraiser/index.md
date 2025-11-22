@@ -21,7 +21,7 @@ type: page
 
 – **Thank you for visiting our Medical Emergency Fundraiser page.** -
 
-In November 2025, our household suffered an accident. One of our family members sustained a serious injury that required emergency medical attention. The injury has required various hospitalizations, and a long recovery. We consider ourselves fortunate and blessed to be have been able to receive emergency medical care. We are also lucky to have friends and family, like perhaps you - dear reader - who have provided succor and support to us during this time. 
+In November 2025, our household suffered an accident. One of our family members sustained a serious injury that required emergency medical attention. The injury has required a lenghty hospitalizaton and now long recovery. We consider ourselves fortunate and blessed to be have been able to receive emergency medical care. We are also lucky to have friends and family, like perhaps you - dear reader - who have provided succor and support to us during this time. 
 We humbly ask for your thoughts and prayers for our family. We also ask you to consider, perhaps in lieu of flowers or other gifts, a donation to our medical emergency fundraiser. Any amount you can donate will be greatly appreciated. In keeping with the math nerdy theme of my website, we here claim that: often times, asking for help is a necessary, but not sufficient, condition to receiving it.
 
 If you want to donate to our medical emergency fundraiser directly, consider sending an ACH transfer to the following account:
