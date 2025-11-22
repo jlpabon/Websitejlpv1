@@ -84,7 +84,7 @@ user_groups:
 <!-- **I am looking for post graduation employment, please feel free to reach out to me about vacancies.** -->
 
 
-I'm the **Vice President** of the [**Princeton University Area Alumni Association**](https://www.princetonaaa.org/) as well as a **Doctoral Researcher** at the Racially-Just, Inclusive Open STEM Ed (RIOS) Institute.
+I'm the **Vice President** of the [**Princeton University Area Alumni Association**](https://www.princetonaaa.org/) as well as a **Doctoral Researcher** collaborating with the Racially-Just, Inclusive Open STEM Ed (RIOS) Institute.
 
 I was previously a Ph.D. candidate at the [Mathematical Sciences Department](https://math.njit.edu/) at [New Jersey Institute of Technology](https://www.njit.edu/). My advisors were Prof. [Michael Siegel](https://web.njit.edu/~misieg/) and Prof. [Anand U. Oza](https://web.njit.edu/~oza/).  My research involves high precision modeling of the collective hydrodynamics of slender body active matter including the three dimensional vorticity and forces acting on each body inclusively. We also approximate the analytical solutions via efficient, high speed parallel computing numerical analysis methods.
 
