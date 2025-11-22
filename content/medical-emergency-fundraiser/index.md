@@ -41,7 +41,7 @@ Routing Number: 256078466
 <div style="height: 100px;"></div>
 ======================================
 
-Another donation option would be to do so via Zelle at jlpabon@alumni.princeton.edu. We have also set up a GoFundMe page for our [medical emergency fundraiser](https://www.gofundme.com/manage/support-pabon-alma-familys-recovery-journey).
+Another donation option would be to do so via Zelle at jlpabon@alumni.princeton.edu. We have also set up a GoFundMe page for our [medical emergency fundraiser](https://www.gofundme.com/f/support-pabon-alma-familys-recovery-journey).
 
 Our mailing address is:
 
