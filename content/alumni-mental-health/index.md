@@ -62,14 +62,14 @@ Build a sustainable structure with funding, clear leadership, and collaborative 
 
 We envision a Princeton where mental health is prioritized as integral to academic and personal success, where policies reflect compassion and equity, and where no student feels isolated in their struggles. Through alumni engagement, collective advocacy, and collaboration with the University, we strive to create lasting cultural and structural change.
 
-** Who we are **
+\\ ** Who we are **
 
-Here we can list people who we want to list.
+\\ Here we can list people who we want to list.
 
 Jose Pabon, PhD:
 ![Headshot of Jose Pabon](JosePabonHeadshotCroppedPixlr.png)
 
-Jose Pabon is one of our members; when we have other folks listed here we can list their roles, short bios or whatever we want. 
+Jose Pabon is one of our members, this website was built before our current updated one, findable via online search.  Thanks for reading!
 
 
 ---
