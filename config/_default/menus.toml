@@ -28,10 +28,28 @@
   url = "#publications"
   weight = 40
 
- [[main]]
-   name = "Teaching Courses"
-   url = "courses/"
-   weight = 50
+# [[main]]
+#   name = "Teaching Courses"
+#   url = "courses/"
+#   weight = 50
+
+[[main]]
+  name = "Teaching Courses"
+  id = "courses-parent"
+  url = "courses/"
+  weight = 50
+
+[[main]]
+  name = "MATH112 Calculus-2"
+  parent = "courses-parent"
+  url = "courses/example/"
+  weight = 51
+
+[[main]]
+  name = "Physics & Pre-Calc"
+  parent = "courses-parent"
+  url = "courses/physics/"
+  weight = 52
 
 [[main]]
   name = "Contact"
