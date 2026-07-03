@@ -1,3 +1,4 @@
+---
 title: "Integrated Calculus, Pre-Calculus and College Physics"
 linktitle: "Integrated Calculus, Pre-Calculus and College Physics"
 summary: "This page contains my prepared notes and slides for these courses I developed and lectured."
