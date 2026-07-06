@@ -22,11 +22,13 @@ menu:
 
 ---
 
-I hope these slides and notes that I prepared for my courses, are useful for you. Any feedback feel free to contact me.  Best wishes!
+I hope these slides and notes that I prepared for my courses are useful for you. Any feedback feel free to contact me.  Best wishes!
 
 
-- [DuBoisScholars-Math-Lecture3.pdf][1]
-- [DuBoisScholars-Physics-Lecture3.pdf][2]
+- [DuBoisScholars-Math-Lecture_Slides_Notes.pdf][1]
+- [DuBoisScholars-Physics-Lecture_Slides_Notes.pdf][2]
+- [DuBoisScholars-Research-Topics-Lecture_Slides_Notes.pdf][3]
 
-[1]: files/DuBoisScholars-Math-Lecture3.pdf
-[2]: files/DuBoisScholars-Physics-Lecture3.pdf
+[1]: files/DuBoisScholars-Math-Lecture.pdf
+[2]: files/DuBoisScholars-Physics-Lecture.pdf
+[3]: files/JosePabon-Dubois-Research.pdf
