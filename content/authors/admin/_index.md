@@ -16,15 +16,21 @@ btn:
 superuser: true
 
 # Role/position
-role: Doctoral Researcher
+# role: "Doctoral Researcher, Adj. Asst. Professor."
+role: ""
 
 # Organizations/Affiliations
 organizations:
+
+  - name: Doctoral Researcher, Adj. Asst. Professor.
+    url: ""
   - name: Princeton University,
     url: "https://www.princeton.edu"
-  - name: New Jersey Institute of Technology
+  - name: New Jersey Institute of Technology,
     url: "https://www.njit.edu"
-  - name: The Institute for a Racially Just, Inclusive, and Open STEM Education (RIOS Institute),
+  - name: City University of New York,
+    url: "https://www.cuny.edu"
+  - name: The Institute for a Racially Just, Inclusive, and Open STEM Education (RIOS Institute).
     url: "https://riosinstitute.org"
 
 # Short bio (displayed in user profile at end of posts)
@@ -59,8 +65,9 @@ social:
     - icon: linkedin
       icon_pack: fab
       link: https://www.linkedin.com/public-profile/in/josé-pabón-b1b27b174
-# - icon: google-scholar
-#   icon_pack: ai
+    - icon: google-scholar
+      icon_pack: ai
+      link: https://scholar.google.com/citations?user=UVeVJTUAAAAJ&hl=en
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 # - icon: github
 #   icon_pack: fab
@@ -83,8 +90,13 @@ user_groups:
 
 <!-- **I am looking for post graduation employment, please feel free to reach out to me about vacancies.** -->
 
+Thanks for visiting my page!
 
-I'm the **Vice President** of the [**Princeton University Area Alumni Association**](https://princetonaaa.tigernet.princeton.edu/) as well as a **Doctoral Researcher** collaborating with the Racially-Just, Inclusive Open STEM Ed (RIOS) Institute.
+I am an **Adj. Asst. Professor** at City University of New York, Department of Computer Science. I am also the **Vice President** of the [**Princeton University Area Alumni Association**](https://princetonaaa.tigernet.princeton.edu/) as well as a **Doctoral Researcher** collaborating with the Racially-Just, Inclusive Open STEM Ed (RIOS) Institute.
+
+Our academic and community building projects include [**VECINA - Visualizing Environmental and Community Information for Neighborhood Advocacy**](https://vecina.wrwc.org/),  [**Black Math Census Project**](https://blackmathcensus.netlify.app/), and [**Vecinita Chat Bot - Privacy focused Large Language Model RAG Project**](https://vecinita-chat-rag-frontend-jnt8o.ondigitalocean.app/).
+
+My [**Google Scholar Profile**](https://scholar.google.com/citations?user=UVeVJTUAAAAJ&hl=en) has the latest information on my publications.
 
 I was previously a Ph.D. candidate at the [Mathematical Sciences Department](https://math.njit.edu/) at [New Jersey Institute of Technology](https://www.njit.edu/). My advisors were Prof. [Michael Siegel](https://web.njit.edu/~misieg/) and Prof. [Anand U. Oza](https://web.njit.edu/~oza/).  My research involves high precision modeling of the collective hydrodynamics of slender body active matter including the three dimensional vorticity and forces acting on each body inclusively. We also approximate the analytical solutions via efficient, high speed parallel computing numerical analysis methods.
 
